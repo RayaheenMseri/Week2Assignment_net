@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagmentAmazon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f770a5b56c6424ea45c5ea4c8622b71287c6147a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderManagmentAmazon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderManagmentAmazon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

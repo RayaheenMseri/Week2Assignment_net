@@ -93,5 +93,6 @@ C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\OrderManagmentAmazon.pdb
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\OrderManagmentAmazon.genruntimeconfig.cache
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\ref\OrderManagmentAmazon.dll
-C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\compressed\wi2keypplt-u49szuhnne.gz
-C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\compressed\60fwozjjyy-u49szuhnne.gz
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\OrderManagmentAmazon.sourcelink.json
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\compressed\wi2keypplt-rlp68d04gy.gz
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\OrderManagmentAmazon\obj\Debug\net9.0\compressed\60fwozjjyy-rlp68d04gy.gz

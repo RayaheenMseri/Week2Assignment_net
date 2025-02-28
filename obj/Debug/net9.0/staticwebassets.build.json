@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p9frCUtsujL7KTzJGv7KC9WoDKN3zLV+KXNRZqsbC+k=",
+  "Hash": "TzfSgeq3ge05vjs2d46dprXn6ZCaZb1Ivzm5On6+vSg=",
   "Source": "OrderManagmentAmazon",
   "BasePath": "_content/OrderManagmentAmazon",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-u49szuhnne.gz",
+      "Identity": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-rlp68d04gy.gz",
       "SourceId": "OrderManagmentAmazon",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/OrderManagmentAmazon",
-      "RelativePath": "OrderManagmentAmazon#[.{fingerprint=u49szuhnne}]!.bundle.scp.css.gz",
+      "RelativePath": "OrderManagmentAmazon#[.{fingerprint=rlp68d04gy}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OrderManagmentAmazon.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1i8lneqw9v",
-      "Integrity": "SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=",
+      "Fingerprint": "pic8g8etpc",
+      "Integrity": "n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OrderManagmentAmazon.bundle.scp.css"
@@ -1172,12 +1172,12 @@
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-u49szuhnne.gz",
+      "Identity": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-rlp68d04gy.gz",
       "SourceId": "OrderManagmentAmazon",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/OrderManagmentAmazon",
-      "RelativePath": "OrderManagmentAmazon#[.{fingerprint=u49szuhnne}]?.styles.css.gz",
+      "RelativePath": "OrderManagmentAmazon#[.{fingerprint=rlp68d04gy}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1i8lneqw9v",
-      "Integrity": "SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=",
+      "Fingerprint": "pic8g8etpc",
+      "Integrity": "n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "u49szuhnne",
-      "Integrity": "wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=",
+      "Fingerprint": "rlp68d04gy",
+      "Integrity": "4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "u49szuhnne",
-      "Integrity": "wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=",
+      "Fingerprint": "rlp68d04gy",
+      "Integrity": "4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OrderManagmentAmazon.bundle.scp.css"
@@ -21287,12 +21287,12 @@
     },
     {
       "Route": "OrderManagmentAmazon.bundle.scp.css",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-u49szuhnne.gz",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-rlp68d04gy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001721170396"
+          "Quality": "0.001697792869"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "W/\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
@@ -21351,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1313"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21373,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
     {
       "Route": "OrderManagmentAmazon.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-u49szuhnne.gz",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-rlp68d04gy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21418,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg="
+          "Value": "sha256-n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.styles.css",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-u49szuhnne.gz",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-rlp68d04gy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001721170396"
+          "Quality": "0.001697792869"
         }
       ],
       "ResponseHeaders": [
@@ -21439,152 +21439,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
-        }
-      ]
-    },
-    {
-      "Route": "OrderManagmentAmazon.styles.css",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1266"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
-        }
-      ]
-    },
-    {
-      "Route": "OrderManagmentAmazon.styles.css.gz",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-u49szuhnne.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "580"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg="
-        }
-      ]
-    },
-    {
-      "Route": "OrderManagmentAmazon.u49szuhnne.bundle.scp.css",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-u49szuhnne.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001721170396"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "580"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21604,13 +21467,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "W/\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21618,12 +21481,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.u49szuhnne.bundle.scp.css",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.bundle.scp.css",
       "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OrderManagmentAmazon.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21633,7 +21496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1313"
         },
         {
           "Name": "Content-Type",
@@ -21641,11 +21504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21655,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21663,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.u49szuhnne.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-u49szuhnne.gz",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\60fwozjjyy-rlp68d04gy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21678,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "Content-Type",
@@ -21686,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21708,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21716,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg="
+          "Value": "sha256-n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.u49szuhnne.styles.css",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-u49szuhnne.gz",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.styles.css",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-rlp68d04gy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001721170396"
+          "Quality": "0.001697792869"
         }
       ],
       "ResponseHeaders": [
@@ -21737,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21765,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "W/\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21779,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.u49szuhnne.styles.css",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.styles.css",
       "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21794,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1266"
+          "Value": "1313"
         },
         {
           "Name": "Content-Type",
@@ -21802,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A=\""
+          "Value": "\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21816,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21824,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wtf0OKRypfvFtiFJrtq01Q4El5kkKSnasgZZydF+k+A="
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
         }
       ]
     },
     {
-      "Route": "OrderManagmentAmazon.u49szuhnne.styles.css.gz",
-      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-u49szuhnne.gz",
+      "Route": "OrderManagmentAmazon.rlp68d04gy.styles.css.gz",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-rlp68d04gy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21839,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "580"
+          "Value": "588"
         },
         {
           "Name": "Content-Type",
@@ -21847,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg=\""
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:12:00 GMT"
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21869,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u49szuhnne"
+          "Value": "rlp68d04gy"
         },
         {
           "Name": "label",
@@ -21877,7 +21740,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SS22fqp0aV4sxfQH/BAd3i87Bf/6GC/yhrDoL3MlEHg="
+          "Value": "sha256-n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE="
+        }
+      ]
+    },
+    {
+      "Route": "OrderManagmentAmazon.styles.css",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-rlp68d04gy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001697792869"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "588"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
+        }
+      ]
+    },
+    {
+      "Route": "OrderManagmentAmazon.styles.css",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\OrderManagmentAmazon.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4dwyoRuAnFib7ONBYXRtTZOgrju21zmERDE5iigiKvI="
+        }
+      ]
+    },
+    {
+      "Route": "OrderManagmentAmazon.styles.css.gz",
+      "AssetFile": "C:\\Users\\HUAWEI\\OneDrive\\Desktop\\dev training\\OrderManagmentAmazon\\obj\\Debug\\net9.0\\compressed\\wi2keypplt-rlp68d04gy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 22:16:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n74hNWGymjLimtslZDSsgVa0N8UQ4CIxH42pJ8mKleE="
         }
       ]
     }

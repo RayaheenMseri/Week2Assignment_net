@@ -1,7 +1,7 @@
 @model AmazonOrderSystem.Models.Order
-<h2>Place Order</h2>
 <div class="mx-auto rounded border p-2">
     <form method="post" asp-controller="Order" asp-action="Create">
+        <h2>Place Order</h2>
          <input type="hidden" name="OrderID" value="@Model?.OrderID" />
         <div class="row mb-3">
             <label for="userId" class="col-sm-2 col-form-label col-form-label-lg">User ID:</label>
