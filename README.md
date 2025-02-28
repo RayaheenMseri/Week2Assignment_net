@@ -12,29 +12,6 @@ The project demonstrates the use of ASP.NET Core MVC architecture to implement a
 - Basic input validation for forms.
 
 ## Features
-
-- **Product List**: Displays a list of available products.
-- **Order Form**: Allows users to place an order.
-- **Order History**: Displays the past orders made by a user.
-- **User Input Validation**: Ensures correct data is submitted in the order form.
-
-## Requirements
-
-- .NET Core 8 or 9 SDK
-- Visual Studio 2022 or any other IDE supporting .NET Core
-
-Sure! Below is a sample README file for the **Amazon.sa Web Application** project that outlines the setup, features, and instructions for this ASP.NET Core MVC application:
-
----
-
-# Amazon.sa Web Application (ASP.NET Core MVC)
-
-## Overview
-This is a simple Amazon.sa-like web application built using **ASP.NET Core MVC** with basic functionality such as displaying products, placing orders, and viewing order history. The project follows the **MVC (Model-View-Controller)** architecture.
-
----
-
-## Features
 - **Product List View**: Display a list of available products.
 - **Order Form**: Allows users to place an order.
 - **Order History View**: Shows order history for users.
