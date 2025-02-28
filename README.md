@@ -28,31 +28,6 @@ The project demonstrates the use of ASP.NET Core MVC architecture to implement a
 - A code editor like **Visual Studio** or **Visual Studio Code**.
 - A browser to access the web application.
 
-### Steps to Set Up
-
-2. **Install Dependencies**:
-   Navigate to the project folder and restore any required dependencies.
-   ```bash
-   cd amazon-sa-webapp
-   dotnet restore
-   ```
-
-3. **Build the Project**:
-   After restoring dependencies, build the project.
-   ```bash
-   dotnet build
-   ```
-
-4. **Run the Application**:
-   Run the project to start the application.
-   ```bash
-   dotnet run
-   ```
-
-5. Open a browser and navigate to `http://localhost:5003` (or the specified port) to view the application.
-
----
-
 ## MVC Architecture Implementation
 
 ### 1. **Models**:
